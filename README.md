@@ -36,7 +36,7 @@
 
 <a href="https://github.com/AbhiramRajeevan">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AbhiramRajeevan&show_icons=true&theme=radical)" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhiramRajeevan&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhiramRajeevan&hide=scss,less&theme=buefy&layout=compact" />
 </a>
 
 <br/>
