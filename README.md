@@ -35,8 +35,9 @@
 <br/>
 
 <a href="https://github.com/AbhiramRajeevan">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AbhiramRajeevan&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhiramRajeevan&theme=buefy&layout=compact" />
+<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AbhiramRajeevan&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhiramRajeevan&theme=buefy&layout=compact" /> -->
+  ![Abhiram's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbhiramRajeevan&show_icons=true&theme=radical)
 </a>
 
 <br/>
