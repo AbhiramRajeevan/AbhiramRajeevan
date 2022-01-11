@@ -33,12 +33,12 @@
   ![Atom](https://img.shields.io/badge/-Atom-333333?style=flat&logo=atom)
 
 <br/>
-<!-- 
-<a href="https://github.com/AbhiramRajeevan"> -->
-<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AbhiramRajeevan&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhiramRajeevan&theme=buefy&layout=compact" /> -->
-  ![Abhiram's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbhiramRajeevan&show_icons=true&theme=radical)
-<!-- </a> -->
+
+<a href="https://github.com/AbhiramRajeevan">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AbhiramRajeevan&show_icons=true&theme=radical)" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhiramRajeevan&theme=buefy&layout=compact" />
+ 
+</a>
 
 <br/>
 
