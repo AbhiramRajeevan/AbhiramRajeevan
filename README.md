@@ -22,6 +22,7 @@
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![Node.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=express)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
@@ -32,6 +33,7 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
   ![Atom](https://img.shields.io/badge/-Atom-333333?style=flat&logo=atom)
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio-333333?style=flat&logo=visual%20studio&logoColor=white)
 
 <br/>
 
