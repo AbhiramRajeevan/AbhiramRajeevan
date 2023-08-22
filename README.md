@@ -33,7 +33,7 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
   ![Atom](https://img.shields.io/badge/-Atom-333333?style=flat&logo=atom)
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat&logo=visual%20studio&logoColor=0078D7)
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio-333333?style=flat&logo=visual%20studio&logoColor=0078D7)
 
 <br/>
 
